@@ -22,4 +22,9 @@ public class RestAPITest {
 		System.out.println("deleteTwitter");
 	}
 
+	@Test
+	public void deleteTwitter123()
+	{
+		System.out.println("deleteTwitter123");
+	}
 }
